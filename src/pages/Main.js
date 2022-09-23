@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import MainVisual from './MainVisual';
 import MainContent from './MainContent';
 import Customer from './Customer';
